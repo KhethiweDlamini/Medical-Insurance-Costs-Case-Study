@@ -1,1 +1,1 @@
-# Medical-Insurance-Costs-Case-Study
+# Medical Insurance Costs Case Study
