@@ -4,7 +4,7 @@
 
 This project presents a high-level comparative analysis of classical linear regression methods and machine learning models for predicting individual medical insurance costs.
 
-The study evaluates how effectively different modelling approaches estimate healthcare charges based on demographic and health-related factors. The primary objective is to compare predictive performance across linear, penalised linear, and ensemble-based models.
+The project evaluates how effectively different modelling approaches estimate healthcare charges based on demographic and health-related factors. The primary objective is to compare predictive performance across linear, penalised linear, and ensemble-based models.
 
 ## Dataset
 
