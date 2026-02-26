@@ -24,10 +24,13 @@ import matplotlib.pyplot as plt
 from matplotlib import style
 
 # Load data
-df = pd.read_csv('/content/drive/MyDrive/Colab Notebooks/insurance_costs_dataset.csv', sep=',')
+df = pd.read_csv('/content/drive/MyDrive/Colab Notebooks/data-files/insurance_costs_dataset.csv', sep=',')
 
 # Generate the report
 profile = ProfileReport(df,title="Health-Related Factors and Their Impact on Medical Insurance Costs")
+
+# Embed Report
+profile.to_notebook_iframe()
 
 # Save the report to .html
 profile.to_file("insurance_costs_eda.html")
