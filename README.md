@@ -20,12 +20,12 @@ The dataset contains 1,338 observations and the following variables:
 
 ## Models Evaluated
 
-### Linear Models
+#### Linear Models
 - Linear Regression  
 - Ridge Regression  
 - Lasso Regression  
 
-### Machine Learning Models
+#### Machine Learning Models
 - Random Forest Regressor  
 - Gradient Boosting Regressor  
 - XGBoost Regressor  
