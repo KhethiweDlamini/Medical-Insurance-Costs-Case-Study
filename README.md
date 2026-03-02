@@ -48,7 +48,12 @@ The dataset contains 1,338 observations and the following variables:
 - scikit-learn  
 - XGBoost  
 - ydata-profiling
-  
+- Google Colab
+   - Notebooks for different sections of the analysis can be found on the following links:
+        - [EDA using scatter plots](https://colab.research.google.com/drive/1TxeI4jyfzjOgT91uUkuR4hZkWWTH57sf)
+        - [EDA using ydata profiling](https://colab.research.google.com/drive/1QEmWRtYIZOayp7oG3D7E9kzg2OUOhZmt)
+        - [Predictive modelling](https://colab.research.google.com/drive/1-r_Ese3hrz0EK6K_BbBQd3WAD5qTWgdK)
+
 ## References
 - Klymentiev, R. (2018). *Health Care Cost Prediction with Linear Regression*. Kaggle.  
 - scikit-learn documentation: *Gradient Boosting Regression*.  
